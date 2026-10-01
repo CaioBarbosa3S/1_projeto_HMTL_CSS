@@ -1,0 +1,79 @@
+.table{        
+    font-size: 33px;
+    text-decoration: none;
+    margin-right: 40px;
+}
+.de{
+    width: 30%;
+    left: 30%;
+    position: absolute;
+    top: 20%;
+}
+.dd{
+    width: 30%;
+    left: 50%;
+    position: absolute;
+    top: 20%;
+}
+.direito{
+    right: 100%;
+}
+.dee{
+    position: relative;
+    left: 220px;
+}
+img {
+    width: 400px;
+    height: auto;
+}
+.lado{
+    position: absolute;
+    left: 170px;
+}
+
+body{
+    background-color: rgb(192, 193, 196);
+    margin: 0;
+}
+
+header{
+    position: fixed;
+    left: 0%;
+    height: 10%;
+    width: 100%;
+    text-align: center;
+    top: 0%;
+}
+
+nav{
+    position: fixed;
+    left: 0%;
+    height: 10%;
+    width: 100%;
+    text-align: center;
+    top: 10%;
+    color: white;
+    background-color: aliceblue;
+    padding-top: 20px;
+}
+
+main{
+    position: fixed;
+    left: 0%;
+    height: 70%;
+    width: 100%;
+    text-align: justify;
+    top: 20%;
+    padding-left: 5%;
+    overflow: auto;
+}
+
+footer{
+    position: fixed;
+    left: 0%;
+    height: 10%;
+    width: 100%;
+    text-align: center;
+    top: 90%;
+    background-color: aliceblue;
+}
